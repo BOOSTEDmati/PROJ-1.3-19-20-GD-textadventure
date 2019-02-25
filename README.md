@@ -1,5 +1,5 @@
 ## MaQuest
-gamedeveloper :[jouw naam]
+gamedeveloper : Mateusz Abraham
 
 ### Korte omschrijving van de game
 ...
